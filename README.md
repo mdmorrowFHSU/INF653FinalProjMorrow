@@ -1,8 +1,16 @@
 # "Michael Morrow - INF653 Node JS Final Project - MongoDB with Mongoose: Async CRUD"
 
+github repository:
+https://github.com/mdmorrowFHSU/INF653FinalProjMorrow
+
+glitch:
+https://morrowinf653finalproj.glitch.me
+
+submission ID:
+lHqDFya8A 
 
 **Deploy by clicking the button below**
-[<img src="https://cdn.gomix.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Fremix-button.svg" width="163px" />](https://glitch.com/edit/#!/import/github/mdmorrowFHSU/MorrowINF653FinalProj/MichaelMorrowFinalProj)
+[<img src="https://cdn.gomix.com/2bdfb3f8-05ef-4035-a06e-2043962a3a13%2Fremix-button.svg" width="163px" />](https://glitch.com/edit/#!/import/github.com/mdmorrowFHSU/INF653FinalProjMorrow)
 
 **Description**
 
