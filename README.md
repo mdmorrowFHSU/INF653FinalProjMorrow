@@ -12,3 +12,7 @@ This repository shares the code applied during the Youtube tutorials given by Da
 I suggest completing his [8 hour JavaScript course tutorial video](https://youtu.be/EfAl9bwzVZk) if you are new to Javascript.
 
 Hopefully deploying my project this way will actually make it work on the testing site for submission? Lets see!!
+
+
+Final Submission Copy - needed to add this, I have a few copys made with various changes for comparing what did 
+and did not work. 
